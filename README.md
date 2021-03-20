@@ -1,6 +1,6 @@
 # EDIBO_Pirmais
 
-Noderīgas git komandas
+###Noderīgas git komandas
 ```
 git commit
 git status
